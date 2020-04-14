@@ -1,1 +1,11 @@
-theme: jekyll-theme-modernist
+# basic options
+title: Steve Smodish's Portfolio
+author: Steve Smodish
+email: stevesmodish@gmail.com
+description: This is the portfolio of Steve Smodish
+github_username:  ssmodish
+linkedin_username: stevesmodish
+
+# Build settings
+markdown: kramdown
+theme: minima
